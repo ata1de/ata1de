@@ -11,9 +11,17 @@ Hello, i'm student of the Information System course at CIN-UFPE, i was born and 
 ![Css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
-## Ambitions
--Improve my habilities of JavaScript and Css
--Seek more knowledge about entrepreneurship and innovation
--Learn other language (Java, C, Swift,React, TypeScript, NodeJS)
+
+## 💭 Ambitions
+- Improve my habilities of JavaScript and Css
+- Seek more knowledge about entrepreneurship and innovation
+- Learn other language (Java, C, Swift,React, TypeScript, NodeJS)
+
+# 📞 Contacts
+<div>
+<a href="https://instagram.com/ericlbarreto" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" 
+target="_blank"></a>
+<a href = "mailto:mateusataide05@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
 
 
