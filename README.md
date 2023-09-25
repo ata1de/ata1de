@@ -1,4 +1,4 @@
-### Welcome, i'm Mateus Ataide 👋
+# Welcome, i'm Mateus Ataide 👋
 <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ata1de&layout=compact&langs_count=16&theme=dark"/>
 
 ## ✌️ About me
@@ -18,7 +18,7 @@ Hello, i'm student of the Information System course at CIN-UFPE, i was born and 
 - Seek more knowledge about entrepreneurship and innovation
 - Learn other language (Java, C, Swift,React, TypeScript, NodeJS)
 
-# 📞 Contacts
+## 📞 Contacts
 <div>
 <a href="https://instagram.com/mateus_ataide" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" 
 target="_blank"></a>
