@@ -3,9 +3,13 @@
 
 ## ✌️ About me
 Hello, i'm student of the Information System course at CIN-UFPE, i was born and live in Recife, Pernambuco, and i have ambitions to learn more about technology, statups and innovations
+&nbsp;
+&nbsp;
 
-&nbsp;
-&nbsp;
+## 💭 Ambitions
+- Improve my habilities of JavaScript and Css
+- Seek more knowledge about entrepreneurship and innovation
+- Learn other language (Java, C, Swift,React, TypeScript, NodeJS)
 
 ## 💻 Skills
 
@@ -20,10 +24,6 @@ Hello, i'm student of the Information System course at CIN-UFPE, i was born and 
 #### Studying in this moment:
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 
-## 💭 Ambitions
-- Improve my habilities of JavaScript and Css
-- Seek more knowledge about entrepreneurship and innovation
-- Learn other language (Java, C, Swift,React, TypeScript, NodeJS)
 
 ## 📞 Contacts
 <div>
