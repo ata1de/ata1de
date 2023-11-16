@@ -1,5 +1,10 @@
-# Welcome, i'm Mateus Ataide 👋
-<img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ata1de&layout=compact&langs_count=16&theme=dark"/>
+![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
+<h1 align = 'center'> Welcome, i'm Mateus Ataide 👋</h1>
+
+<div>
+<img  align = 'left 'height = "200em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ata1de&layout=compact&langs_count=16&theme=dark"/>
+<img  align = 'right' width = '400' src = 'https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif'/>
+</div>
 
 ## ✌️ About me
 Hello, i'm student of the Information System course at CIN-UFPE, i was born and live in Recife, Pernambuco, and i have ambitions to learn more about technology, statups and innovations
@@ -37,5 +42,6 @@ Hello, i'm student of the Information System course at CIN-UFPE, i was born and 
         <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>   
 </div>
+
 
 
