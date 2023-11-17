@@ -3,7 +3,7 @@
 
 <div>
 <img  align = 'left 'height = "200em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ata1de&layout=compact&langs_count=16&theme=dark"/>
-<img  align = 'right' width = '400' src = 'https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif'/>
+<img  align = 'right' width = 400 height="200em" alt="streak stats" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=ata1de&count_private=false&theme=dark&border_radius=10"/>
 </div>
 
 ## ✌️ About me
@@ -23,8 +23,10 @@ Hello, i'm student of the Information System course at CIN-UFPE, i was born and 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<img  align = 'right' width = '350' src = 'https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif'/>
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
 
 #### Studying in this moment:
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
@@ -43,5 +45,7 @@ Hello, i'm student of the Information System course at CIN-UFPE, i was born and 
     </a>   
 </div>
 
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4637A6&height=120&section=footer"/>
 
 
