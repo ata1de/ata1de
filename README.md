@@ -6,6 +6,8 @@
 <img  align = 'right' width = 400 height="200em" alt="streak stats" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=ata1de&count_private=false&theme=dark&border_radius=10"/>
 </div>
 
+&nbsp;
+&nbsp;
 ## ✌️ About me
 Hello, i'm student of the Information System course at CIN-UFPE, i was born and live in Recife, Pernambuco, and i have ambitions to learn more about technology, statups and innovations
 &nbsp;
