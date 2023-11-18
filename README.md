@@ -2,8 +2,8 @@
 <h1 align = 'center'> Welcome, i'm Mateus Ataide 👋</h1>
 
 <div>
-<img  align = 'left 'height = "200em"  min-width="400px" max-width="400px" width="400px" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ata1de&layout=compact&langs_count=16&theme=dark"/>
-<img  align = 'right' width = 400 height="200em" alt="streak stats" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=ata1de&count_private=false&theme=dark&border_radius=10"/>
+<img  align = 'left 'height = "200em"  min-width="400px" max-width="400px" width="400px" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ata1de&layout=compact&langs_count=16&theme=nightowl"/>
+<img  align = 'right' width = 400 height="200em" alt="streak stats" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=ata1de&count_private=false&theme=nightowl&border_radius=10"/>
 </div>
 
 &nbsp;
