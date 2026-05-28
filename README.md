@@ -13,9 +13,9 @@
 
 ---
 
-I build reliable, high-volume payment systems end-to-end — from resilient backends and event-driven pipelines to pragmatic frontends. I've been working with fintech/healthcare platforms, real-time analytics and AI-assisted automation in Brazil.
+I build reliable, high-volume payment systems end-to-end, from resilient backends and event-driven pipelines to pragmatic frontends. I've been working with fintech/healthcare platforms, real-time analytics and AI-assisted automation in Brazil.
 
-- 🧠 **Software Engineer** at [Amigo Tech](https://amigotech.com.br) — payments platform with **R$60M BRL** transaction volume across Pix, boleto, credit card and POS
+- 🧠 **Software Engineer** at [Amigo Tech](https://amigotech.com.br), payments platform with **R$60M BRL** transaction volume across Pix, boleto, credit card and POS
 - 🔨 **Currently building:** Gatewatch (market sentiment & signal extraction), BrightLift (AI-powered ad automation) and Rekon (real-time asset tracking & identity insights)
 - 🎯 **Focus:** payments infra, distributed systems, async workers, observability and AI agents
 - 🎓 **B.S. Information Systems** — [CIN-UFPE](https://cin.ufpe.br), one of Brazil's top CS programs
